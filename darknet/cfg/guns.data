@@ -1,0 +1,6 @@
+classes= 80
+train  = /nfs/events/hackathon106/work/darknet/data/guns_labels.txt
+#valid = data/coco_val_5k.list
+names = data/guns.names
+backup = /nfs/events/hackathon106/backup
+eval=coco
