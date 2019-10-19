@@ -26,6 +26,7 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+venv/
 
 # macOS
 .DS_Store
